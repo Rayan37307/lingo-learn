@@ -84,8 +84,6 @@ duolingo-clone/
     |-- use-exit-modal.ts
     |-- use-hearts-modal.ts
     |-- use-practice-modal.ts
-  |- .env.example
-  |- .env/.env.local
   |- .gitignore
   |- .prettierrc.json
   |- bun.lock
@@ -96,6 +94,7 @@ duolingo-clone/
   |- eslint.config.mjs
   |- next.config.ts
   |- package.json
+  |- pnpm-lock.yaml
   |- postcss.config.js
   |- proxy.ts
   |- tailwind.config.ts
