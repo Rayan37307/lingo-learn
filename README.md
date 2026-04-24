@@ -57,7 +57,6 @@ duolingo-clone/
   |- components/
     |-- modals/
     |-- ui/
-    |-- banner.tsx
     |-- feed-wrapper.tsx
     |-- mobile-header.tsx
     |-- mobile-sidebar.tsx
