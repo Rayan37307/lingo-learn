@@ -23,7 +23,7 @@ export const Header = () => {
 
   return (
     <>
-      <Banner hide={hideBanner} setHide={setHideBanner} />
+      {/* <Banner hide={hideBanner} setHide={setHideBanner} /> */}
 
       <header
         className={cn(
