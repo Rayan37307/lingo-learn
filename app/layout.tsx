@@ -35,7 +35,7 @@ export default function RootLayout({
       }}
       afterSignOutUrl="/"
     >
-      <html lang="en">
+      <html lang="en" >
         <body className={font.className}>
           <Toaster theme="light" richColors closeButton />
           <ExitModal />
